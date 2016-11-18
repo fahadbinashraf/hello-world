@@ -1,2 +1,2 @@
 # hello-world
-just another repo
+started learning about git just now
